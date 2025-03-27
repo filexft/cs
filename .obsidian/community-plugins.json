@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "highlightr-plugin",
+  "editing-toolbar",
+  "obsidian-latex-suite"
 ]

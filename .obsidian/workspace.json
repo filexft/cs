@@ -4,66 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0691319b7e62d5",
+        "id": "8b54e74cba874f00",
         "type": "tabs",
         "children": [
           {
-            "id": "0fce7b0ee3f08454",
+            "id": "c856943759913e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Fractions, racines, puissances, logarithmes, résolutions d'équations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "0cb4e66e3765a8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day-1"
-            }
-          },
-          {
-            "id": "dafff56afa48d190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b783792aa74a41ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc726a08b3470720",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Fractions, racines, puissances, logarithmes, résolutions d'équations"
             }
           }
         ]
@@ -98,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "icmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -139,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Fractions, racines, puissances, logarithmes, résolutions d'équations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Fractions, racines, puissances, logarithmes, résolutions d'équations"
             }
           },
           {
@@ -200,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +164,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dafff56afa48d190",
+  "active": "c856943759913e52",
   "lastOpenFiles": [
-    "Day-1.md",
-    "test.md",
-    "Welcome.md"
+    "Untitled 1.canvas",
+    "Cyber sec 101/3_ Command Line/Windows PowerShell.md",
+    "Cyber sec 101/3_ Command Line/Windows Command Line.md",
+    "Pre-Sec/Network Fundamentals/What is Networking.md",
+    "2025-03-25.md",
+    "Untitled.canvas",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Active Directory Basics.md",
+    "Cyber sec 101/3_ Command Line",
+    "Fractions, racines, puissances, logarithmes, résolutions d'équations.md",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Trust Relationships One-way.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/AD forest.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/AD Tree.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/NetNTLM Authentication.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Kerberos Authentication P3.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Kerberos Authentication p2.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Kerberos Authentication p1.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Auto Lock Screen GPO.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/GPO control panel access control.png",
+    "Cyber sec 101/2_Windows and AD Fundamentals/Default Domain Policy  GPO Explanation in Editing.png",
+    "Obsidian Tips",
+    "().md",
+    "security pr.md",
+    "Pre-Sec/Intro to sec/Career in Cyber.md",
+    "Pre-Sec/Windows Fundamentals/Windows Fundamentals 2.md",
+    "Pre-Sec/Windows Fundamentals/Windows Fundamentals 3.md",
+    "Cyber sec 101/1_Start Your Cyber Security Journey/Search Skills.md",
+    "Cyber sec 101/2_Windows and AD Fundamentals",
+    "Cyber sec 101/1_Start Your Cyber Security Journey",
+    "TryHackMe _ What is Networking__files/Comm.md",
+    "Untitled 1",
+    "Cyber sec 101",
+    "Pre-Sec/How The Web Works/DNS in detail.md",
+    "Pre-Sec/Windows Fundamentals",
+    "Pre-Sec/Network Fundamentals/Intro to LAN.md",
+    "Pre-Sec/How The Web Works",
+    "Pre-Sec/Network Fundamentals/Packets & Frames.md",
+    "Pre-Sec/Network Fundamentals/OSI Model.md",
+    "Welcome.md",
+    "TryHackMe _ What is Networking__files/styles__ltr.css",
+    "TryHackMe _ What is Networking__files/recaptcha__en.js.download",
+    "Pre-Sec/Intro to sec/Defensive Security Intro.md",
+    "Pre-Sec/Intro to sec/Offensive Security Intro.md",
+    "create a link.md",
+    "Day - 2.md"
   ]
 }
